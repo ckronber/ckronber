@@ -1,4 +1,3 @@
-# Hi, I’m Chris Kronberg
 - 👋# Hi, I’m Chris Kronberg
 - 👀 I’m interested in Electronics Engineering and Programming in C, C++, Python, and C#
 - 🌱 I’m currently learning C#
