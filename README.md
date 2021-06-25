@@ -6,7 +6,7 @@ Welcome to my github site! Here I put all of my programming and electronics proj
 ## Interests
 Electronics Engineering and Programming in C, C++, Python, and C#  
 
-<img src="https://images.unsplash.com/photo-1557701197-2f99da0922dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80" alt="Circuit Board" width="600" height="400"/>
+<img src="CircuitBoard.jpb" alt="Circuit Board" width="600" height="400"/>
 
 ## Currently Learning
 C#  .Net Web MVC
