@@ -11,7 +11,7 @@ Electronics Engineering and Programming in C, C++, Python, and C#
 ## Currently Learning
 C#  .Net Web MVC
 
-## How to Contact
+## Contact Info
 **Email:** ckronber@gmail.com  
 **Phone:** 812-521-0342 
 ## Eleven Fifty Academy Projects
