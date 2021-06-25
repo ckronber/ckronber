@@ -19,7 +19,7 @@ C#  .Net Web MVC
 ### 1. Gold Badge Projects
 - Web Page
 - CSS Creature
-- Console App
+- Console Apps
 ### 2. BFG Coffee Shop 
 - Created a coffeeshop webApi to have a customer add items to the order and computed total price of items
 - Python Console App for Accessing BFG CoffeeShop Web Api
