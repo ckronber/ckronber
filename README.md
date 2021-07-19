@@ -23,7 +23,7 @@ C#  .Net Web MVC
 - Created a coffeeshop webApi to have a customer add items to the order and computed total price of items
 - Python Console App for Accessing BFG CoffeeShop Web Api
 
-### 3. (CryptoPortfolio Web MVC)[www.google.com]
+### 3. [CryptoPortfolio Web MVC](https://github.com/ckronber/CryptoPortfolio)
 - Created a Web MVC for a Cryptocurrency portfolio to store cryptocurrency amount and prices to track them.
 <!---
 ckronber/ckronber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
