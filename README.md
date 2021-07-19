@@ -16,9 +16,10 @@ C#  .Net Web MVC
 ## Eleven Fifty Academy Projects
 
 ### 1. Gold Badge Projects
-- Web Page
+- [Static Web Page](https://github.com/ckronber/StoreFront)
+- [Escape Room Console App](https://github.com/ckronber/EscapeRoom_App)
 - CSS Creature
-- Console Apps
+- [Console Apps](https://github.com/ckronber/GoldBadge_ConsoleApps)
 ### 2. BFG Coffee Shop 
 - Created a [coffeeshop web API](https://github.com/amckasson/BFGCoffeeShop) created with 3 other classmates to have a customer add items to the order and computed total price of items
 - [Python Console App](https://github.com/ckronber/BFG_ConsoleApp) for Accessing BFG CoffeeShop Web API
