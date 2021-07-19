@@ -21,7 +21,7 @@ C#  .Net Web MVC
 - Console Apps
 ### 2. BFG Coffee Shop 
 - Created a [coffeeshop web API](https://github.com/amckasson/BFGCoffeeShop) created with 3 other classmates to have a customer add items to the order and computed total price of items
-- Python Console App for Accessing BFG CoffeeShop Web API
+- [Python Console App](https://github.com/ckronber/BFG_ConsoleApp) for Accessing BFG CoffeeShop Web API
 
 ### 3. [CryptoPortfolio Web MVC](https://github.com/ckronber/CryptoPortfolio)
 - Created a Web MVC for a Cryptocurrency portfolio to store cryptocurrency amount and prices to track them.
