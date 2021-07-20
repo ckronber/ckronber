@@ -1,7 +1,7 @@
 # Chris Kronberg GitHub
 
 ## Welcome
-Welcome to my github site! Here I put all of my programming and electronics projects I am currently working on and projects I have worked on in the past. You are welcome to use them for reference if you would like to learn more about any of the programming languages that I have programmed here. I also welcome feedback for how to make my code better. I have been to IUPUI for a minor in CS and am currently at Eleven Fifty Academy working on a C# .net MVC project. I will be looking for a job in Software Development or Electronics Engineering in the third week of July 2021.
+Welcome to my github site! Here I put all of my programming and electronics projects I am currently working on and projects I have worked on in the past. You are welcome to use them for reference if you would like to learn more about any of the programming languages that I have programmed here. I also welcome feedback for how to make my code better. I have been to IUPUI for a minor in CS and am currently at Eleven Fifty Academy working on a C# .net MVC project. I am currently looking for a job in Software Development or Electronics Engineering.
 
 ## Interests
 Electronics Engineering and Programming in C, C++, Python, and C#  
