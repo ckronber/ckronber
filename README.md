@@ -18,8 +18,8 @@ C#  .Net Web MVC
 ### 1. Gold Badge Projects
 - [Static Web Page](https://github.com/ckronber/StoreFront)
 - [Escape Room Console App](https://github.com/ckronber/EscapeRoom_App)
-- CSS Creature
 - [Console Apps](https://github.com/ckronber/GoldBadge_ConsoleApps)
+- CSS Creature
 ### 2. BFG Coffee Shop 
 - Created a [coffeeshop web API](https://github.com/amckasson/BFGCoffeeShop) created with 3 other classmates to have a customer add items to the order and computed total price of items
 - [Python Console App](https://github.com/ckronber/BFG_ConsoleApp) for Accessing BFG CoffeeShop Web API
