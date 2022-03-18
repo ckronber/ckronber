@@ -4,7 +4,7 @@
 Welcome to my github site! Here I put all of my programming and electronics projects I am currently working on and projects I have worked on in the past. You are welcome to use them for reference if you would like to learn more about any of the programming languages that I have programmed here. I also welcome feedback for how to make my code better. I have been to IUPUI for a minor in CS and most recently was at Eleven Fifty Academy working on a C# .NET MVC project. I am currently looking for a job in Software Development or Electronics Engineering.
 
 ## Interests
-Programming in C, C++, Python, C#, C#  .Net Web MVC, and Electronics Engineering
+Programming in  Python, C#, C#  .Net Web MVC,C, C++, and Electronics Engineering
 
 
 ## Currently Learning
