@@ -15,8 +15,7 @@ Python sqlite3 and flask
 **Phone:** 812-521-0342 
 
 ## Python Projects
-### 1.Chat Web App
-- [Python Chat Application](https://ckronberg-web-app.herokuapp.com/)
+### 1.[Python Chat Web Application](https://ckronberg-web-app.herokuapp.com/)
 - This is a group chat application that I am currently still working on that has the ability to create, edit and delete messages from the user that sent the messages. This web app is currently running on Heroku. It has a limit of up to 20 people running where it is now. 
 
 
