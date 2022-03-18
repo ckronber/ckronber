@@ -16,7 +16,7 @@ Python sqlite3 and flask
 
 ## Python Projects
 ### 1. [Python Chat Web Application](https://ckronberg-web-app.herokuapp.com/)
-- This is a group chat application that I am currently still working on that has the ability to create, edit and delete messages from the user that sent the messages. This web app is currently running on Heroku. It has a limit of up to 20 people running where it is now. 
+- This is a group chat application that I am currently still working on that has the ability to create, edit and delete messages from the user that sent the messages. This web app is currently running on Heroku and has a limit of 20 connections. If I expand this app, I will move it to a dedicated paid server. There is also the ability to see when people are online or offline. This helps with seeing who is online and can see your messages right away. Direct messaging has not been implemented here yet but that Is a feature I am going to add.
 
 
 ## Eleven Fifty Academy Projects
